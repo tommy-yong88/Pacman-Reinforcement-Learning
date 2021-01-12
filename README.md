@@ -1,5 +1,5 @@
 # Pacman - Reinforcement Learning
-<img src="background.png"
+<img src="pac-man.jpg"
      style="float: left; margin-right: 0px;" />
 
 <br>
